@@ -7,7 +7,7 @@
 - Improved most of the skills better in this project.
 - It took nearly ten hours to complete this project.
 - Enjoyed it a lot as I tried to design a page. Flexbox made things easier.
-
+- Website is mobile responsive.
 - Below image shows the preview of the project:
 
 ![Project-11 Preview](./Project-11.png)
